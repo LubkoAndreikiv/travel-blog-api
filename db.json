@@ -1,0 +1,20 @@
+{
+    articles: [
+        {
+            id: 1,
+            title: "Art 1",
+            shortDescription: "Lorem",
+            creationDate: new Date(),
+            description: "Long lorem",
+            images: [ {title: "Image 1", url: ""} ]
+        },
+        {
+            id: 2,
+            title: "Art 2",
+            shortDescription: "Lorem 2",
+            creationDate: new Date(),
+            description: "Long lorem 2",
+            images: [ {title: "Image 1", url: ""} ]
+        }
+    ]
+}
